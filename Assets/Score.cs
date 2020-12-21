@@ -22,7 +22,7 @@ public class Score : MonoBehaviour
 
     void OnCollisionEnter(Collision other)
     {
-        
+
 
         if (tag == "SmallStarTag")
         {
